@@ -1,2 +1,0 @@
-# corseratest
-Coursera test repository 
